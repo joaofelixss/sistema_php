@@ -10,7 +10,7 @@ A aplicação consiste em um sistema com login e cadastro, utilizando banco de d
 </di>    
 
 # Tecnologias utilizadas
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,php,mysql)](https://skillicons.dev)
 
 # Autor
 
